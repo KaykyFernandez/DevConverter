@@ -6,8 +6,9 @@
 }
 
 body {
-    background-image: url(/CSS/img/13430.jpg);
+    background-color: blue;
     background-size: cover;
+        
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
